@@ -1,0 +1,444 @@
+@FFBaldMan Well worth it for Baker Mayfield. He really turned it on in the last fourth of the regular season. Still only 25 years old. In terms of fantasy, he’s a backend QB1 moving forward IMO.RT @ApacheFlink: 📢 New on the Flink blog:
+The RocksDB state backend is the workhorse of many large-scale Flink applications. When should yo…We are working to implement Elastic, a service that helps run ElasticSearch instances according to their user's (e.g. Bubble's) instructions. In our case, we are moving our logging backend to ElasticSearch powered by Elastic, which we anticipate will bring a number of technicalRT @PrograminLovers: #أسئلة_المتابعين
+
+لو سمحت عندي مشروع  الجزء اللي عليا web backend
+
+وبدات على php بس احس بتووهه وجزء ال database صعب اح…@noseratio @CFDevelop Oh that’s nice, wish I had some place to use it. I spend most my time in TS right now  too although I generally try to push complexity like this to the backendRT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…Lástima que @AmeShopMx este con #InnovaSport nunca funcionan sus páginas.
+Alguien dígale a su backend que revise los query al JSON RT @SheCodeAfrica: We’re looking for experts in the community willing to mentor women in tech for 3 months across FrontEnd, backend, Mobile…@life_yanks4 LAD will throw out Buehler, Kershaw, Price, Urias against who would you prefer Monty? Maybe Urias so he’s a 4. I like a Monty a lot and would be happy if he’s in the backend of the rotation but if you can use him to get a stud like Marquez you do it@jguffey That’s a pretty neat backend tbh@mueller_andi @chucker @Serafina2k @coronawarnapp No. The answer is always that the German app is open source. The backend is open source. The analysis on how privacy is handled is in the documentation and everybody can open an issue in GitHub to discuss with the developers. What more can we do?RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…RT @kotlin: 🎉 Kotlin 1.4.30-RC is now available!
+
+✅ JVM IR backend in Beta
+✅ Inline value classes in Beta
+✅ Experimental JVM records suppor…@getDanArias As someone who jumps around all 3 OSes on a daily basis, windows is fine with WSL2. 
+So I get all the benefits of windows and Linux. However, I still prefer to jump on Manjaro with i3 when doing backend work.RT @dignal_com: #IoT #IIoT #m2m #microcontroller #SoftwareEngineering #arduino #raspberrypi #InternetOfThings #software #backend #webdevelo…RT @lawlessafnf: Just dropped backend everywhere! #أسئلة_المتابعين
+
+لو سمحت عندي مشروع  الجزء اللي عليا web backend
+
+وبدات على php بس احس بتووهه وجزء ال database صعب احتاج اي شخص يوجهني ابدا صح من فين وكيفRT @roborda_: #WeAreHiring Lead Backend Engineers to build greenfield and brownfield, scalable web platforms within the .NET Core environme…RT @kotlin: 🎉 Kotlin 1.4.30-RC is now available!
+
+✅ JVM IR backend in Beta
+✅ Inline value classes in Beta
+✅ Experimental JVM records suppor…@TeamJunkfish @Malkarii_ @MonstrumGame @muyskerm @Apocalypto_12 @WeDontWhisper @tasialabastro @LordMinion777 @Jpw03 @PatrckStatic @GarukuBluemoon Lol I swear if you guys programmed some backend stuff to mess with broadcasters...well, I got no threat other than I’ll scream😅 Which is I guess the point...damn itRT @back4app: Do you want to understand the benefits of using the GraphQL-Flutter lib for your Flutter project? Check out this new article:…@HMRCgovuk Well it would be great if your colleagues could actually sort out my account so I could submit my self assessment. Currently on two phone calls and three requests to the backend team.RT @kotlin: 🎉 Kotlin 1.4.30-RC is now available!
+
+✅ JVM IR backend in Beta
+✅ Inline value classes in Beta
+✅ Experimental JVM records suppor…RT @kotlin: 🎉 Kotlin 1.4.30-RC is now available!
+
+✅ JVM IR backend in Beta
+✅ Inline value classes in Beta
+✅ Experimental JVM records suppor…Neko ko je virtualni asistent može da zarađuje više od nekih programera. Senior backend developer I junior front end developer su programeri ali razlika u plati je ogromna. Nema logike da imaju isti porez. Treba da se gleda samo i samo iznos.
+ RT @Form3Careers: The 4th episode of the .tech #podcast is out!
+
+Our host @kevholditch is joined by Tom Arrell, Senior Backend Engineer at…@dtemkin DDoS Guard looks to be HQ'd in UK. As a CDN, wouldn't they have POPs in most countries? any confirmation on the backend host?RT @back4app: Do you want to understand the benefits of using the GraphQL-Flutter lib for your Flutter project? Check out this new article:…RT @dignal_com: #IoT #IIoT #m2m #microcontroller #SoftwareEngineering #arduino #raspberrypi #InternetOfThings #software #backend #webdevelo…RT @roborda_: #WeAreHiring Lead Backend Engineers to build greenfield and brownfield, scalable web platforms within the .NET Core environme…RT @roborda_: #WeAreHiring Lead Backend Engineers to build greenfield and brownfield, scalable web platforms within the .NET Core environme…RT @dignal_com: #IoT #IIoT #m2m #microcontroller #SoftwareEngineering #arduino #raspberrypi #InternetOfThings #software #backend #webdevelo…RT @20Gabriele20: R2D7 of #100DaysOfCode :
+
+Added backend authentification with the JSON Web Token. In this way each request will be valida…RT @20Gabriele20: R2D7 of #100DaysOfCode :
+
+Added backend authentification with the JSON Web Token. In this way each request will be valida…@arlencox that's true. Hence, in subsequent work we are ditching souffle to switch to a massively-parallel relational algebra backend that runs on supercomputing clusters: RT @20Gabriele20: R2D7 of #100DaysOfCode :
+
+Added backend authentification with the JSON Web Token. In this way each request will be valida…RT @20Gabriele20: R2D7 of #100DaysOfCode :
+
+Added backend authentification with the JSON Web Token. In this way each request will be valida…RT @20Gabriele20: R2D7 of #100DaysOfCode :
+
+Added backend authentification with the JSON Web Token. In this way each request will be valida…RT @20Gabriele20: R2D7 of #100DaysOfCode :
+
+Added backend authentification with the JSON Web Token. In this way each request will be valida…RT @20Gabriele20: R2D7 of #100DaysOfCode :
+
+Added backend authentification with the JSON Web Token. In this way each request will be valida…RT @20Gabriele20: R2D7 of #100DaysOfCode :
+
+Added backend authentification with the JSON Web Token. In this way each request will be valida…RT @20Gabriele20: R2D7 of #100DaysOfCode :
+
+Added backend authentification with the JSON Web Token. In this way each request will be valida…RT @20Gabriele20: R2D7 of #100DaysOfCode :
+
+Added backend authentification with the JSON Web Token. In this way each request will be valida…RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…🥁 A new year and I am starting a new phase professionally, the plan is to: 
+- Do freelance consulting as a senior developer. Focusing on backend/Ruby/JS/project management.
+- Continue to grow my Slack app,  - an app for scheduling messages in Slack.RT @remote_dev_jobs: Full Stack Ruby &amp; Javascript developer for an HR SaaS at HR Partner #Application #Backend #CSS #Database #Frontend #Fu…RT @remote_dev_jobs: Full Stack Ruby &amp; Javascript developer for an HR SaaS at HR Partner #Application #Backend #CSS #Database #Frontend #Fu…RT @20Gabriele20: R2D7 of #100DaysOfCode :
+
+Added backend authentification with the JSON Web Token. In this way each request will be valida…RT @20Gabriele20: R2D7 of #100DaysOfCode :
+
+Added backend authentification with the JSON Web Token. In this way each request will be valida…RT @colonnaandria: Après notre interview sur @BFMTV @bfmbusiness  on recrute notamment des dev #Backend #python #Rus…RT @aredblip: @JohnMaxwell1988 @bowlestrek AFAIK, Gab use their own server so it's a difficult task to manage the sudden influx of so many…RT @Thevelopher: Javascript HTTP Request: The best options that get the job done
+
+We will be looking at their Best and Worst features. 
+
+Th…@JohnMaxwell1988 @bowlestrek AFAIK, Gab use their own server so it's a difficult task to manage the sudden influx of so many new users.
+
+The price to pay for being self sufficient and not relying on backend services from big web hosting service providers like Amazon, who recently dropped Parler.RT @kotlin: 🎉 Kotlin 1.4.30-RC is now available!
+
+✅ JVM IR backend in Beta
+✅ Inline value classes in Beta
+✅ Experimental JVM records suppor…@nisrulz Even the backend is most probably majorly Java :DTurns out you can't directly get resources from another website in JavaScript due to CORS - need to forward from the backend.
+
+Wish I knew this.... 8 hours agoRT @modex_tech: Blockchain database: It is an innovative concept which fuses the advantages and familiar user experience of a traditional #…@TheycallmeJohnD The backend a be good, front 4 a be good too if we can get a young free agent but they linebackers need free agents &amp; picks 😂RT @sbstnschllr: Join us at HiPeople in building great software people love to use! We have 3️⃣ new ✨ open roles in Engineering! Reach out…RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…RT @kotlin: 🎉 Kotlin 1.4.30-RC is now available!
+
+✅ JVM IR backend in Beta
+✅ Inline value classes in Beta
+✅ Experimental JVM records suppor…RT @damiansire: Estoy haciendo backend :D
+Pero es en java :(
+Estoy aplicando patrones de diseños :D
+Pero la sintaxis esta muy sobrecargada…@backend_panda @joelhansembiid @Goonkam16 @CalebWerz @HeemsBurner @TheNBACentral He's the first player in NBA history to have a 30-point triple-double, shoot at 80 per cent from the field and have five steals in a game. He needs to be coached up.RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…@SingtelSupport @someone from your team had set this  right, removed from billing but the backend team started charging again. It is unbelievable how left hand does not know what right hand is doing!!@damiansire Si necesitas una mano con Java/EJB en el Backend yo conozco una buena Psicóloga Terapeuta que te puede cambiar la vida! 😅😎RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…RT @roborda_: #WeAreHiring Lead Backend Engineers to build greenfield and brownfield, scalable web platforms within the .NET Core environme…@CodexRex @Woodguy55 @sayitfrenchy It definitely has more depth than it’s ever had in sometime. Russell not playing the first 3 games is evidence of that. I think it will be hard for Jones to get back in the line up, if that backend shows good against the forecheck tonight.RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…RT @dignal_com: #IoT #IIoT #m2m #microcontroller #SoftwareEngineering #arduino #raspberrypi #InternetOfThings #software #backend #webdevelo…RT @dignal_com: #IoT #IIoT #m2m #microcontroller #SoftwareEngineering #arduino #raspberrypi #InternetOfThings #software #backend #webdevelo…#IoT #IIoT #m2m #microcontroller #SoftwareEngineering #arduino #raspberrypi #InternetOfThings #software #backend #webdevelopment #embedded #nodejs #vue #ReactJS #angularjs #linux #ubuntu #CloudComputing #GoogleCloud #MySQL RT @chi_mu_anya: What's even happening!😣where did all the tech gigs go? Please someone should connect me with a Python/Django backend devel…We're hiring! Read about our latest job opening here: Backend ISR Developer/Architect (TS/SCI) -  #Government #Chantilly, VART @MegsoftInc: We have an excellent opportunity for an experienced Senior .NET Core #Backend #Developer to join a rapidly expanding team.…@sebdedeyne UTC. Always. No time zone management on the backend._FUCKING GODADDY._
+
+What was supposed to be an easy process turned into three days of their backend and staff screwing the pooch royally and fucking over my long weekend.
+
+That is all.@EFF @davidgreene @TheBayKQED I also don't have a lot of sympathy for trump or parler, but simply because it happened to people who "deserve it" this time doesn't mean that Twitter/FB/Google's massive influence over online speech is good, nor does it mean backend infrastructure like AWS, other server hosts...@SheaAllan I’m using the Garmin Index scale. It uploads the weight to their backend and syncs it across Garmin, Strava and MyFitnessPal which is very convenient.RT @Nebula_Matrix: @binance @SafeHavenio is an ecosystem of many products, two of which are porting to #BSC (@bin_block &amp; @fundrequest_io),…RT @ApacheFlink: 📢 New on the Flink blog:
+The RocksDB state backend is the workhorse of many large-scale Flink applications. When should yo…Foogiano ft Gucci Mane &amp; Jacquees - BackendRT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…RT @byLilyV: #FEATURED #COURSES
+
+Angular &amp; NodeJS - The MEAN Stack Guide [2021 Edition]
+
+Learn how to connect your #Angular #Frontend to a…@Cardano_Afrik Giving Block uses gemini backend, so unless gemini adds #ada, nothing can be done
+
+We ve been on it for the past 5 months 😕RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…RT @roborda_: #WeAreHiring Lead Backend Engineers to build greenfield and brownfield, scalable web platforms within the .NET Core environme…RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…Stack another backend , coming in frequentlyRT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…@TheWarMonitor source? i'm showing a CDN in Belize but no clarity on backend@SheetalJaitly Hey Sheetal, I am interested in your backend position at @TribalScale. I would love to learn more about the company and role. Can we connect?RT @naerasart: they are 👍👍😅
+#coding #codinglife #CodeNewbie #programming #webdev  #FrontEnd #Backend RT @yesusgeek: @lukaseder They are magical and really useful to buy you some time until you implement it properly in the backend layer. Oth…RT @naerasart: they are 👍👍😅
+#coding #codinglife #CodeNewbie #programming #webdev  #FrontEnd #Backend @luis10870917 Well tightening up my tinfoil hat for a moment, what's to say someone from Gab actually posted this and not a member of the Technofascist collective from Twitter. I have never worked with Cloudflare on the backend so maybe it just looks like a DNS issue for some maintenance.RT @remote_dev_jobs: Backend Software Engineer- Mortgage Engine at Better #Application #Backend #Database #Design #Golang #Java #Nodejs #Py…RT @byLilyV: #FEATURED #COURSES
+
+Angular &amp; NodeJS - The MEAN Stack Guide [2021 Edition]
+
+Learn how to connect your #Angular #Frontend to a…RT @kotlin: 🎉 Kotlin 1.4.30-RC is now available!
+
+✅ JVM IR backend in Beta
+✅ Inline value classes in Beta
+✅ Experimental JVM records suppor…RT @remote_dev_jobs: Backend Software Engineer- Mortgage Engine at Better #Application #Backend #Database #Design #Golang #Java #Nodejs #Py…RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…RT @adnanfa14030189: Hi am adnan if you any problem related to #physics then contact me #hiring #Developer #software #jobsintech #jobsineur…RT @TripleThreat3xx: IF I said FU€K  you I meant that
+The shit that you #savin I #spent #that
+And if you want #smoke you #can #get #that
+I…@susanjsp_ I just started a job that uses Laravel/PHP in the backend.
+We can learn it together 💜RT @TripleThreat3xx: IF I said FU€K  you I meant that
+The shit that you #savin I #spent #that
+And if you want #smoke you #can #get #that
+I…RT @TripleThreat3xx: IF I said FU€K  you I meant that
+The shit that you #savin I #spent #that
+And if you want #smoke you #can #get #that
+I…RT @chrispian: Dev friends, anyone looking for a new opportunity? We are looking for someone to join our team. Backend heavy work. It’s an…Hey! Havent been posting neon blight stuff cause i was doing backend stuff, but ill be able to show something new this week!RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…RT @chi_mu_anya: What's even happening!😣where did all the tech gigs go? Please someone should connect me with a Python/Django backend devel…@dmcamp24 @RealSlickNickk @ElliottEvan24 @OnePantherPlace Top 5 skill position players (even w/o CMC), improved defense (which showed on the backend of the season), the most one score losses. You want to team to be the Jets, this team is not that.RT @DevRelateio: Currently helping clients to recruit for the following: 
+Sr Dev Evangelist - .NET experience
+Developer Ex Engineer - exper…@patonilds @devscansados Pelo menos uma prévia do cálculo, deve ser feita no front-end.
+Fazer requisições no servidor, sempre que o usuário altera um input, mesmo não fazendo submit, não me parece economicamente viável.
+Agora, se o que você disse é sobre garantir estes cálculos no backend, eu condordo.all of TalKing of the Hill is scheduled on our Patreon backend, but in my defense i have nothing better to do and my wife is 1000 miles awayAprès notre interview sur @BFMTV @bfmbusiness  on recrute notamment des dev #Backend #python #Rust si vous vous sentez venez chez nous @jellysmacklabs ! RT @byLilyV: #FEATURED #COURSES
+
+Angular &amp; NodeJS - The MEAN Stack Guide [2021 Edition]
+
+Learn how to connect your #Angular #Frontend to a…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @sbstnschllr: Join us at HiPeople in building great software people love to use! We have 3️⃣ new ✨ open roles in Engineering! Reach out…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…@lukaseder They are magical and really useful to buy you some time until you implement it properly in the backend layer. Otherwise, it might be used to hide some business logic (it happened to me at work more than once), which creates unexpected bugs or designs to work around it.RT @kotlin: 🎉 Kotlin 1.4.30-RC is now available!
+
+✅ JVM IR backend in Beta
+✅ Inline value classes in Beta
+✅ Experimental JVM records suppor…RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…@DragonAIOBot I need in!! I hate missing Nike restocks because they are in backend and I can't get to them 😭 I wanna join your team so bad! 🐉🐲RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…Apps which only use Roam data on the backend and have an entirely different UI/UX - where it is possible to have no idea it is built atop Roam. Not there yet, but it is clear.@proud_x2 @BurdsIVue Ahh i think i get what you mean, I was confused. Just extension "type" talks with either paying them more on the backend to accept a lower sum this year, adding years too or just paying out more the following seasons?RT @byLilyV: #FEATURED #COURSES
+
+Angular &amp; NodeJS - The MEAN Stack Guide [2021 Edition]
+
+Learn how to connect your #Angular #Frontend to a…@florinpop1705 My last #sideproject - is't a social media tool #webproject, does that count?
+
+Why I am so proud? Form idea to launch it took me 4 workdays. Catched the domain, builded the frontend with #gatsbyjs, developed the backend with #smyfony and finaly devployed over ci/cd #gitlab!RT @remote_dev_jobs: Full Stack Ruby &amp; Javascript developer for an HR SaaS at HR Partner #Application #Backend #CSS #Database #Frontend #Fu…@WAR_READY_KV @1myriontwos 😂😂😂RT @sbstnschllr: Join us at HiPeople in building great software people love to use! We have 3️⃣ new ✨ open roles in Engineering! Reach out…RT @robdykedotcom: @HPIAndyCowper NHSX Head of Open Tech said the code for the backend of COVID-19 app v1 would be published "shortly". Tha…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…RT @byLilyV: #FEATURED #COURSES
+
+Angular &amp; NodeJS - The MEAN Stack Guide [2021 Edition]
+
+Learn how to connect your #Angular #Frontend to a…RT @byLilyV: #FEATURED #COURSES
+
+Angular &amp; NodeJS - The MEAN Stack Guide [2021 Edition]
+
+Learn how to connect your #Angular #Frontend to a…RT @byLilyV: #FEATURED #COURSES
+
+Angular &amp; NodeJS - The MEAN Stack Guide [2021 Edition]
+
+Learn how to connect your #Angular #Frontend to a…RT @SourabhSKatoch: Design league-of-legends backend: system design interview for a large scale systems.
+
+
+
+#Machine…@DragonAIOBot Need to cook nike backend 🧟‍♂️#FEATURED #COURSES
+
+Angular &amp; NodeJS - The MEAN Stack Guide [2021 Edition]
+
+Learn how to connect your #Angular #Frontend to a #NodeJS, Express, #MongoDB #Backend by building a real Application
+
+
+
+#CodeNewbies #100DaysOfCode #developer #womenwhocode #online RT @LeakFinessinn: Keep Allat Regular n Boring Shitt Got 1 LifeRT @sbstnschllr: Join us at HiPeople in building great software people love to use! We have 3️⃣ new ✨ open roles in Engineering! Reach out…Join us at HiPeople in building great software people love to use! We have 3️⃣ new ✨ open roles in Engineering! Reach out to ➡️ Azer to learn more. 🙌
+#hipeople #hr #hrtech #recruiting #recruitingtech #hiring #react #go #typescript #fullstack #backend RT @roborda_: #WeAreHiring Lead Backend Engineers to build greenfield and brownfield, scalable web platforms within the .NET Core environme…RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…RT @roborda_: #WeAreHiring Lead Backend Engineers to build greenfield and brownfield, scalable web platforms within the .NET Core environme…Backend Developers 😅 RT @remote_dev_jobs: Full Stack Ruby &amp; Javascript developer for an HR SaaS at HR Partner #Application #Backend #CSS #Database #Frontend #Fu…@TimHoyt @patio11 Thanks. Looks to me like the tech is mostly a big Airtable db (great use of @airtable!); wonder if anything else in the backend is complicated. Generating the Google Map? Coordinating the queue of facilities to call?RT @DevRelateio: Currently helping clients to recruit for the following: 
+Sr Dev Evangelist - .NET experience
+Developer Ex Engineer - exper…Backend Developer Estoy haciendo backend :D
+Pero es en java :(
+Estoy aplicando patrones de diseños :D
+Pero la sintaxis esta muy sobrecargada :( 
+Hay clases y todo es lindo :D 
+Pero todo es lento y demora en compilar :( RT @DevRelateio: Currently helping clients to recruit for the following: 
+Sr Dev Evangelist - .NET experience
+Developer Ex Engineer - exper…RT @remote_dev_jobs: Full Stack Ruby &amp; Javascript developer for an HR SaaS at HR Partner #Application #Backend #CSS #Database #Frontend #Fu…@alex_peys @pymc_devs Makes sense! I guess I was curious if there was any *killer app* reason to pick one PPL framework using a Google backend vs another (TF vs TheanoJAX) beyond stack/user preferences.Currently helping clients to recruit for the following: 
+Sr Dev Evangelist - .NET experience
+Developer Ex Engineer - experience in content creation
+DevRel Coordinator - Community Mgmt experience
+RoR Dev - experience in APIs &amp; solid backend solutions.
+
+info@devrelate.io or DM🌏 New Remote Job!  ReCharge Payments: Senior Software Engineer, Backend  at 
+
+
+#remotework@florinpop1705 Developing my own search engine called *Ask YuSEE*,  using python flask backend, it will soon be releasedRT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…RT @remote_dev_jobs: Full Stack Ruby &amp; Javascript developer for an HR SaaS at HR Partner #Application #Backend #CSS #Database #Frontend #Fu…RT @bir_sahi: Today @_pulkitg dropped in to my office, the young IT guru, a tech whizkid, entrepreneur. He had single-handedly set up the b…RT @remote_dev_jobs: Full Stack Ruby &amp; Javascript developer for an HR SaaS at HR Partner #Application #Backend #CSS #Database #Frontend #Fu…RT @remote_dev_jobs: Full Stack Ruby &amp; Javascript developer for an HR SaaS at HR Partner #Application #Backend #CSS #Database #Frontend #Fu…RT @remote_dev_jobs: Full Stack Ruby &amp; Javascript developer for an HR SaaS at HR Partner #Application #Backend #CSS #Database #Frontend #Fu…Full Stack Ruby &amp; Javascript developer for an HR SaaS at HR Partner #Application #Backend #CSS #Database #Frontend #FullStack #JavaScript #Nodejs #React #Ruby #RubyonRails #SQL #Systems #Test #Vuejs #Web #Website 👉 RT @SheCodeAfrica: We’re looking for experts in the community willing to mentor women in tech for 3 months across FrontEnd, backend, Mobile…RT @SebagoHameed: Hello #techtwitter, I'm yet to get an Intermediate Backend Engineer role with #Nodejs #expressjs 🙏
+RT 🙏 to help a bro
+I w…RT @chi_mu_anya: What's even happening!😣where did all the tech gigs go? Please someone should connect me with a Python/Django backend devel…RT @hanit001: Looking for a Full Stack Software Developer; specialized/stronger in Backend with strong Java skills OR PHP 
+
+Kindly indicate…RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…@andrew_j_mead Can you make a Python version of your backend course? Your Node class taught me so much!I was able to hack this together to serve a Nuxt frontend with an Inertia backend.
+
+We'll see if it makes sense longer term though @AshwinJaishankr @AutoVRse It's really neat! I'm mostly in angular (or backend) land, so this looks like a really fun new set of frameworks/packages to learn!@anthonyfago1 @Keep_Pounding You have to be kidding yourself if you think Jackson is better. Wilson fell off at three backend of the season. Only QBs that’s better are Rogers and MahomesRT @robdykedotcom: @HPIAndyCowper NHSX Head of Open Tech said the code for the backend of COVID-19 app v1 would be published "shortly". Tha…@HPIAndyCowper NHSX Head of Open Tech said the code for the backend of COVID-19 app v1 would be published "shortly". That was in May 2020.
+
+RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…RT @adnanfa14030189: Hi am adnan if you any problem related to #physics then contact me #hiring #Developer #software #jobsintech #jobsineur…RT @adnanfa14030189: Hi am adnan if you any problem related to #physics then contact me #hiring #Developer #software #jobsintech #jobsineur…RT @adnanfa14030189: Hi am adnan if you any problem related to #physics then contact me #hiring #Developer #software #jobsintech #jobsineur…Im in the backend of streets where it gets deadlyRT @chi_mu_anya: What's even happening!😣where did all the tech gigs go? Please someone should connect me with a Python/Django backend devel…RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…@devscansados mando tudo pro backend tratar depois devolvo p front, nunca que eu mexo com dinheiro em js@devscansados @GUlLHERMI @murilomaiabb a real é que eu realmente não me lembro agora de ter processado essas coisas no frontend, só no backend, e aí eu usava campos com 8 casas decimais no backend no sistema da firma quando mexia com pagamentos@santiagomayer_ Entirely possible data is still *stored/hosted on AWS*, just via purely proxied backend requests to new AWS accts.RT @kotlin: 🎉 Kotlin 1.4.30-RC is now available!
+
+✅ JVM IR backend in Beta
+✅ Inline value classes in Beta
+✅ Experimental JVM records suppor…El #trabajo tecnológico no para: Senior Java Backend Engineer #Montevideo #java #empleo RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…God is faithful, even when I've been unfaithful.
+
+Oluwa-backend-keeper🙌🏾🙌🏾🙌🏾#WeAreHiring Lead Backend Engineers to build greenfield and brownfield, scalable web platforms within the .NET Core environment. This is a remote position to work with teams and clients in the US and EU. Apply  💸RT @gabrieub_: algum dev backend procurando emprego pelo AMOR de deus????@florinpop1705 I am not finished yet with the project but I am taking what I have learned in the past year and putting it all together.  I am build a app using django and django rest framework for the backend (which I am very proud of) and react and redux for the front end.@GergelyOrosz Also, occasionally, tracking calls to our backend for end-to-end testing some specific issue that feeds back to kibana. These are pretty rare though, and not more reliable than regular network calls (eg. no local cache without network connection)RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…RT @back4app: Do you want to understand the benefits of using the GraphQL-Flutter lib for your Flutter project? Check out this new article:…RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…Pack in, get the backend what I did today I can't flash this ..RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…Just discover @prisma, as a backend dev used to PHP ORMs this looks really great and promising ! Looking forward for my next node project to try it out 😊RT @DicksonNsofor: We are hiring for the following roles at Korapay, all experienced roles. a thread:
+
+Senior Back End Devs (Node JS/TypeSc…RT @kotlin: 🎉 Kotlin 1.4.30-RC is now available!
+
+✅ JVM IR backend in Beta
+✅ Inline value classes in Beta
+✅ Experimental JVM records suppor…RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…@juntch1 @DThompsonDev Great piece... 👍 Thank you sir for the link up there. 👍
+
+By the way sir, I'm a backend developer working with Node.js Express and MongoDB at my backend, wanted to ask if I could be mentored by you 🙏Offre d'emploi Senior Backend Developer - Paris (75) - PopScreen Games (Janvier 2021)  via @afjv_emploiRT @BIGREDWHOOP: MIKE x SKILLA BABY - “BACKEND” RT @AdioleDivine: Dropping this here.
+I am Adiole Divine.
+I am a backend developer.
+I also do Flutter
+Link to my portfolio: in my bio😊
+Kind…@emmalearnscode Teachers are allowed to create a room - if you try to create a room as a student, the backend would respond with a 403 error - not allowed. 
+
+Perhaps when you create a room, you can enter the email addresses of your students. They then receive an email with a link to sign up/in.RT @chi_mu_anya: What's even happening!😣where did all the tech gigs go? Please someone should connect me with a Python/Django backend devel…@_visualllee @konceptxizzy There's different levels to promoting. If someone is having you pay that mean they probably doing networking and backend work. Not just simply retweetingRT @ncedigital: Exclusive: More than £115M has been spent on developing #Crossrail 2 proposals during the last six years before the project…Immaginez, il casse le backend RT @kotlin: 🎉 Kotlin 1.4.30-RC is now available!
+
+✅ JVM IR backend in Beta
+✅ Inline value classes in Beta
+✅ Experimental JVM records suppor…@itsdtox Thanks, and nope!
+As usual I very much appreciate the support, but this is something that can only be handled on the backend, and we're feverishly working on it as we speak.
+Cheers!IF I said FU€K  you I meant that
+The shit that you #savin I #spent #that
+And if you want #smoke you #can #get #that
+I just want #proof of the #backend RT @back4app: Do you want to understand the benefits of using the GraphQL-Flutter lib for your Flutter project? Check out this new article:…IF I said FU€K  you I meant that
+The shit that you #savin I #spent #that
+And if you want #smoke you #can #get #that
+I just want #proof of the #backendRT @back4app: Do you want to understand the benefits of using the GraphQL-Flutter lib for your Flutter project? Check out this new article:…Do you want to understand the benefits of using the GraphQL-Flutter lib for your Flutter project? Check out this new article:
+
+
+
+#Flutter #dart #Graphql #API #database #backend #lowcode #Fluttercommunity #FlutterDev #FlutterDayMeetups #Flutterverse 𝗦𝗲 𝗯𝘂𝘀𝗰𝗮 
+¡Apoyemos juntos! 𝗟𝗶𝗸𝗲 o 𝗥𝗧.
+Postúlate ahora 👉  
+
+Backend Developer Senior #vacante #empleo 
+
+Publica tus vacantes 𝗦𝗜𝗡 𝗖𝗢𝗦𝗧𝗢:
+
+@Trabajo_Digital RT @SheCodeAfrica: We’re looking for experts in the community willing to mentor women in tech for 3 months across FrontEnd, backend, Mobile…RT @chi_mu_anya: What's even happening!😣where did all the tech gigs go? Please someone should connect me with a Python/Django backend devel…@JustStephiroth im like deeply intrigued by what backend bug just caused that to happen LOLRT @kotlin: 🎉 Kotlin 1.4.30-RC is now available!
+
+✅ JVM IR backend in Beta
+✅ Inline value classes in Beta
+✅ Experimental JVM records suppor…"Sell the sizzle, not the steak" Learn 7 proven keys to persuade customer's to buy your backend.  #salestips @lefticus @LouisDionne I expect to remove the TBB requirement over the next release or two of GCC, and there may also be an OpenMP based backend in that same time frame.
+
+But until that work is done, the parallel algorithms will continue to be marked ‘experimental’@lefticus WRT parallel algorithms-
+
+The sequence of events was that Intel contributed *just* the PSTL bits to the LLVM project +a bunch of stdlib related changes I contributed +@LouisDionne added a ‘serial’ backend.
+
+That is the version libstdc++ is based on.
+
+/2IF I said FU€K  you I meant that
+The shit that you #savin I #spent #that
+And if you want #smoke you #can #get #that
+I just want #proof of the #backend RT @CymbalFM: Miss Cymbal? We're thinking of bringing it back, but we need help. We're looking for an experienced backend developer that ha…@MewsDevs @matfyz @JStarychfojtu This can also be classified as the "how it started - how it's going" meme, when it comes to backend and cloud. 😅RT @JoelAlejandro: @goncy @Mercadolibre No tengo certeza de que se pueda pasar el de Mercado Libre, peeeeero están estos repos públicos en…RT @lawlessafnf: Just dropped backend everywhere! 
