@@ -23,6 +23,6 @@ I solved the task given in the Kaggle Competion at https://www.kaggle.com/c/cont
 >Your task is to create an NLI model that assigns labels of 0, 1, or 2 (corresponding to entailment, neutral, and contradiction) to pairs of premises and hypotheses.
 To make things more interesting, the train and test set include text in fifteen different languages!
 
-The goal of the project was to use test different pre-trained transformer-based multilingual models, in this case BERT and RoBERTa.
-Models from [Huggingface](https://huggingface.co) were used with Tensorflow/Keras. 
+My goal for the project was to test different pre-trained transformer-based multilingual models, in this case BERT and RoBERTa.
+Models from [Huggingface](https://huggingface.co) were used with Tensorflow/Keras in Python, and using Kaggle TPUs. 
 
